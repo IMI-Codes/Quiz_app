@@ -1,6 +1,8 @@
-import prompt_toolkit
+from prompt_toolkit import print_formatted_text as print
+from prompt_toolkit.formatted_text import FormattedText
 
-
+welcome_message = FormattedText([("#000000","Welcome"),(""," "),("#FFFFFF","Player")])
+print(welcome_message)
 #Display "Welcome Player" 
 
 """
