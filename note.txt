@@ -1,0 +1,6 @@
+Quiz App
+
+Main Goal:
+To Enable Users Test Themselves
+Options and True of False Questions and Fill in the Blanks
+
