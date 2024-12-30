@@ -1,6 +1,7 @@
 import curses
 from curses import wrapper
 
+#handle starting the game creating and validating players
 
 def main(scr):
   curses.init_pair(1,curses.COLOR_BLUE,curses.COLOR_YELLOW)
