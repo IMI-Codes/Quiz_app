@@ -1,5 +1,6 @@
 import curses
 from curses import wrapper
+from time import sleep
 
 #handle starting the game creating and validating players
 
@@ -9,6 +10,11 @@ def main(scr):
   scr.clear()
   scr.refresh()
   scr.addstr(0,50,"WELCOME PLAYER",BLUE_YELLOW | curses.A_BOLD)#curse.A_bold
+  sleep(2)
+  
+  
+      
   scr.getch()
+  
 
 wrapper(main)

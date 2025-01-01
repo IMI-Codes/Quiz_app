@@ -34,4 +34,4 @@ class Player:
       return False
     
 sam = Player()
-print(sam.create_new_player("Manasseh"))
+sam.create_new_player("Manasseh")
