@@ -1,49 +1,43 @@
 import curses
-from curses import wrapper
 
-
-#from passlib.hash import pbkdf2_sha256
-
-import curses
-
-def main(stdscr):
-    # Disable cursor and enable keypad input
+def display_menu(stdscr, options):
+    # Initialize curses and hide the cursor
     curses.curs_set(0)
-    stdscr.keypad(1)
     
-    # Define menu options
-    menu = ["Option 1", "Option 2", "Option 3", "Exit"]
+    # Index to track the selected option
     current_row = 0
 
-    def print_menu(stdscr, selected_row):
+    def print_menu():
         stdscr.clear()
-        for idx, row in enumerate(menu):
-            if idx == selected_row:
-                stdscr.addstr(idx, 0, row, curses.color_pair(1))
+        for idx, option in enumerate(options):
+            if idx == current_row:
+                stdscr.addstr(idx, 0, option, curses.color_pair(1))  # Highlight selected
             else:
-                stdscr.addstr(idx, 0, row)
+                stdscr.addstr(idx, 0, option)
         stdscr.refresh()
 
-    # Set up color pair for selected menu item
+    # Set up color pairs for highlighting
     curses.start_color()
     curses.init_pair(1, curses.COLOR_BLACK, curses.COLOR_WHITE)
 
-    print_menu(stdscr, current_row)
-
+    # Main loop to handle user input
     while True:
+        print_menu()
+
         key = stdscr.getch()
 
         if key == curses.KEY_UP and current_row > 0:
             current_row -= 1
-        elif key == curses.KEY_DOWN and current_row < len(menu) - 1:
+        elif key == curses.KEY_DOWN and current_row < len(options) - 1:
             current_row += 1
-        elif key == curses.KEY_ENTER or key in [10, 13]:
-            if menu[current_row] == "Exit":
-                break
-            stdscr.addstr(len(menu) + 1, 0, f"You selected '{menu[current_row]}'!")
-            stdscr.refresh()
-            stdscr.getch()
+        elif key in [curses.KEY_ENTER, 10, 13]:  # Enter key pressed
+            return options[current_row]
 
-        print_menu(stdscr, current_row)
+# Wrapper function to call the display_menu with curses
+def main():
+    options = ["Option 1", "Option 2", "Option 3", "Option 4", "Exit"]
+    selected_option = curses.wrapper(display_menu, options)
+    print(f"You selected: {selected_option}")
 
-curses.wrapper(main)
+if __name__ == "__main__":
+    main()
