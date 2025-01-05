@@ -1,0 +1,1271 @@
+[
+  {
+    "question": "What is the main power of Goku in Dragon Ball?",
+    "options": ["Energy Blast", "Super Speed", "Kamehameha", "Invisibility"],
+    "answer": "Kamehameha",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "Which character is known for the phrase 'I am the king of the pirates!' in One Piece?",
+    "options": ["Luffy", "Zoro", "Sanji", "Chopper"],
+    "answer": "Luffy",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "What does the acronym CPU stand for?",
+    "options": ["Central Processing Unit", "Central Processing Unit", "Central Power Unit", "Computer Processing Unit"],
+    "answer": "Central Processing Unit",
+    "difficulty": "easy",
+    "topic": "tech"
+  },
+  {
+    "question": "True or False: The programming language Python is named after a snake.",
+    "answer": "False",
+    "difficulty": "easy",
+    "topic": "tech"
+  },
+  {
+    "question": "Who was the first boxer to defeat Mike Tyson?",
+    "options": ["Evander Holyfield", "Lennox Lewis", "Buster Douglas", "Joe Frazier"],
+    "answer": "Buster Douglas",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "Which of the following is a compound exercise for strength training?",
+    "options": ["Squats", "Bicep Curls", "Tricep Dips", "Lunges"],
+    "answer": "Squats",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "True or False: A caloric deficit is required to gain muscle mass.",
+    "answer": "False",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "What year was the first iPhone released?",
+    "options": ["2005", "2006", "2007", "2008"],
+    "answer": "2007",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Which anime series is known for the phrase 'I’ll be king of the pirates!'?",
+    "options": ["One Piece", "Naruto", "Bleach", "Dragon Ball Z"],
+    "answer": "One Piece",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "In what weight class does the boxer Canelo Álvarez compete?",
+    "options": ["Middleweight", "Lightweight", "Heavyweight", "Light Heavyweight"],
+    "answer": "Middleweight",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "Which technology is primarily used for building websites?",
+    "options": ["JavaScript", "C#", "Java", "Python"],
+    "answer": "JavaScript",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Who won the 'Fight of the Century' against Muhammad Ali in 1971?",
+    "options": ["Joe Frazier", "George Foreman", "Sonny Liston", "Larry Holmes"],
+    "answer": "Joe Frazier",
+    "difficulty": "hard",
+    "topic": "boxing"
+  },
+  {
+    "question": "Fill in the blank: The famous phrase 'It’s over 9000!' is from the anime _____.",
+    "answer": "Dragon Ball Z",
+    "difficulty": "hard",
+    "topic": "anime"
+  },
+  {
+    "question": "In which year did the United States land the first man on the moon?",
+    "options": ["1965", "1967", "1969", "1971"],
+    "answer": "1969",
+    "difficulty": "hard",
+    "topic": "general knowledge"
+  },
+  {
+    "question": "Who is the creator of the anime series Naruto?",
+    "options": ["Masashi Kishimoto", "Tite Kubo", "Hiro Mashima", "Eiichiro Oda"],
+    "answer": "Masashi Kishimoto",
+    "difficulty": "hard",
+    "topic": "anime"
+  },
+  {
+    "question": "True or False: The iPhone 12 was released in 2018.",
+    "answer": "False",
+    "difficulty": "hard",
+    "topic": "tech"
+  },
+  {
+    "question": "What is the best exercise for building overall strength?",
+    "options": ["Deadlift", "Leg Press", "Machine Curl", "Lateral Raise"],
+    "answer": "Deadlift",
+    "difficulty": "hard",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "True or False: The latest version of Python is Python 4.",
+    "answer": "False",
+    "difficulty": "hard",
+    "topic": "tech"
+  },
+  {
+    "question": "Which anime is based on the manga written by Yoshihiro Togashi?",
+    "options": ["Naruto", "Hunter x Hunter", "Bleach", "Attack on Titan"],
+    "answer": "Hunter x Hunter",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "Which boxer was known as 'The Greatest'?",
+    "options": ["Mike Tyson", "Evander Holyfield", "Muhammad Ali", "Sugar Ray Leonard"],
+    "answer": "Muhammad Ali",
+    "difficulty": "easy",
+    "topic": "boxing"
+  },
+  {
+    "question": "Fill in the blank: In 'Dragon Ball Z', the character Piccolo is a powerful ____.",
+    "answer": "Namekian",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "Which technology is commonly used for backend web development?",
+    "options": ["PHP", "JavaScript", "HTML", "CSS"],
+    "answer": "PHP",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Which of these is NOT a proper technique for boxing?",
+    "options": ["Keeping hands low", "Jab to set up power punches", "Guarding your face", "Slipping punches"],
+    "answer": "Keeping hands low",
+    "difficulty": "easy",
+    "topic": "boxing"
+  },
+  {
+    "question": "Which of the following exercises primarily targets the chest?",
+    "options": ["Push-up", "Squat", "Pull-up", "Deadlift"],
+    "answer": "Push-up",
+    "difficulty": "easy",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Who was the first person to develop the theory of relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Galileo Galilei"],
+    "answer": "Albert Einstein",
+    "difficulty": "medium",
+    "topic": "general knowledge"
+  },
+  {
+    "question": "What was the title of the first Star Wars movie released in 1977?",
+    "options": ["The Phantom Menace", "Return of the Jedi", "A New Hope", "The Empire Strikes Back"],
+    "answer": "A New Hope",
+    "difficulty": "easy",
+    "topic": "pop culture"
+  },
+  {
+    "question": "Which city is known as the birthplace of jazz music?",
+    "options": ["New Orleans", "Chicago", "New York", "Los Angeles"],
+    "answer": "New Orleans",
+    "difficulty": "medium",
+    "topic": "general knowledge"
+  },
+  {
+    "question": "True or False: Spider-Man made his first appearance in 'The Amazing Spider-Man' comic book series.",
+    "answer": "False",
+    "difficulty": "medium",
+    "topic": "pop culture"
+  },
+  {
+    "question": "Which boxing legend fought in the 'Rumble in the Jungle'?",
+    "options": ["Muhammad Ali", "Joe Frazier", "George Foreman", "Sugar Ray Leonard"],
+    "answer": "Muhammad Ali",
+    "difficulty": "hard",
+    "topic": "boxing"
+  },
+  {
+    "question": "In the Dragon Ball series, what color is Super Saiyan Goku's hair?",
+    "options": ["Red", "Blue", "Yellow", "Green"],
+    "answer": "Yellow",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "Which exercise primarily strengthens the legs?",
+    "options": ["Squat", "Bicep Curl", "Chest Press", "Tricep Extension"],
+    "answer": "Squat",
+    "difficulty": "easy",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "True or False: The website Amazon started as a bookstore.",
+    "answer": "True",
+    "difficulty": "easy",
+    "topic": "tech"
+  },
+  {
+    "question": "Fill in the blank: The 1999 anime series 'One Piece' was first published by _____.",
+    "answer": "Eiichiro Oda",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "Which anime features the character Eren Yeager?",
+    "options": ["Naruto", "Attack on Titan", "Fullmetal Alchemist", "Tokyo Ghoul"],
+    "answer": "Attack on Titan",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "What is the most popular programming language in the world according to the TIOBE Index?",
+    "options": ["Python", "Java", "C", "JavaScript"],
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "tech"
+  },
+  {
+    "question": "Which company developed the first personal computer?",
+    "options": ["IBM", "Apple", "Microsoft", "Compaq"],
+    "answer": "IBM",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "True or False: Boxing was part of the first modern Olympic Games in 1896.",
+    "answer": "True",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "What is the primary muscle worked during a deadlift?",
+    "options": ["Hamstrings", "Quadriceps", "Back", "Shoulders"],
+    "answer": "Back",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Which anime includes a character named Kirito?",
+    "options": ["Sword Art Online", "Attack on Titan", "Bleach", "Naruto"],
+    "answer": "Sword Art Online",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "Which famous boxing promoter was known for the phrase 'You’re gonna be the next big thing'?",
+    "options": ["Don King", "Bob Arum", "Eddie Hearn", "Dana White"],
+    "answer": "Don King",
+    "difficulty": "medium",
+    "topic": "boxing"
+  }
+,
+  {
+    "question": "Which anime character is known for the phrase 'Believe it!'?",
+    "options": ["Naruto Uzumaki", "Sasuke Uchiha", "Luffy", "Goku"],
+    "answer": "Naruto Uzumaki",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "True or False: The first iPhone had a 3.5-inch screen.",
+    "answer": "True",
+    "difficulty": "easy",
+    "topic": "tech"
+  },
+  {
+    "question": "Who was the first woman to win a boxing world championship?",
+    "options": ["Ann Wolfe", "Christy Martin", "Laila Ali", "Nicola Adams"],
+    "answer": "Christy Martin",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "Which is the main protein responsible for muscle growth in the human body?",
+    "options": ["Collagen", "Myosin", "Actin", "Keratin"],
+    "answer": "Myosin",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Fill in the blank: The famous 'Death Note' was originally a _____.",
+    "answer": "Manga",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "Which programming language is known as the 'language of the web'?",
+    "options": ["JavaScript", "Python", "Ruby", "C++"],
+    "answer": "JavaScript",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Which boxing legend is known for his footwork and the phrase 'float like a butterfly, sting like a bee'?",
+    "options": ["Muhammad Ali", "Sugar Ray Leonard", "Joe Louis", "Mike Tyson"],
+    "answer": "Muhammad Ali",
+    "difficulty": "easy",
+    "topic": "boxing"
+  },
+  {
+    "question": "True or False: Squats primarily target the chest muscles.",
+    "answer": "False",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Which character is the main protagonist of the anime 'Attack on Titan'?",
+    "options": ["Eren Yeager", "Armin Arlert", "Levi Ackerman", "Mikasa Ackerman"],
+    "answer": "Eren Yeager",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "Which technology does a web browser use to display websites?",
+    "options": ["CSS", "HTML", "JavaScript", "SQL"],
+    "answer": "HTML",
+    "difficulty": "easy",
+    "topic": "tech"
+  },
+  {
+    "question": "Which exercise is best for working the upper chest?",
+    "options": ["Incline Bench Press", "Deadlift", "Pull-up", "Squat"],
+    "answer": "Incline Bench Press",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Fill in the blank: The first 'Star Wars' movie was directed by _____.",
+    "answer": "George Lucas",
+    "difficulty": "medium",
+    "topic": "pop culture"
+  },
+  {
+    "question": "Which anime is famous for the characters 'Yusuke Urameshi' and 'Kurama'?",
+    "options": ["Yu Yu Hakusho", "Naruto", "Bleach", "Dragon Ball Z"],
+    "answer": "Yu Yu Hakusho",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "True or False: Python is primarily used for frontend web development.",
+    "answer": "False",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Who won the 2021 WBC Heavyweight title in boxing?",
+    "options": ["Deontay Wilder", "Tyson Fury", "Anthony Joshua", "Andy Ruiz Jr."],
+    "answer": "Tyson Fury",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "Fill in the blank: The first ever anime series was 'Astro Boy,' created by _____.",
+    "answer": "Osamu Tezuka",
+    "difficulty": "hard",
+    "topic": "anime"
+  },
+  {
+    "question": "Which of these is considered the most effective exercise for strengthening the core?",
+    "options": ["Planks", "Crunches", "Leg Raises", "Russian Twists"],
+    "answer": "Planks",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "True or False: The Python programming language is named after a snake.",
+    "answer": "False",
+    "difficulty": "hard",
+    "topic": "tech"
+  },
+  {
+    "question": "Which country did boxing legend Manny Pacquiao represent in the ring?",
+    "options": ["Philippines", "Mexico", "Puerto Rico", "United States"],
+    "answer": "Philippines",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "Who is known as the father of modern bodybuilding?",
+    "options": ["Arnold Schwarzenegger", "Eugene Sandow", "Ronnie Coleman", "Jay Cutler"],
+    "answer": "Eugene Sandow",
+    "difficulty": "hard",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Which of the following is a true statement about the 'React' framework?",
+    "options": ["It is used for backend development.", "It was developed by Facebook.", "It is not a JavaScript framework.", "It uses Python for development."],
+    "answer": "It was developed by Facebook.",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "True or False: The manga 'Dragon Ball' was originally published in 1984.",
+    "answer": "True",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "Which movie won the Oscar for Best Picture in 2019?",
+    "options": ["Parasite", "The Irishman", "Joker", "Once Upon a Time in Hollywood"],
+    "answer": "Parasite",
+    "difficulty": "medium",
+    "topic": "pop culture"
+  },
+  {
+    "question": "Fill in the blank: The world's most famous boxer, Muhammad Ali, was born in _____.",
+    "answer": "Louisville",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "Which anime features the famous character 'Spike Spiegel'?",
+    "options": ["Cowboy Bebop", "Trigun", "One Piece", "Naruto"],
+    "answer": "Cowboy Bebop",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "What does the term 'cloud computing' refer to?",
+    "options": ["Storing data on physical servers", "Storing and accessing data over the internet", "Using hard drives for data storage", "A method of transferring files between devices"],
+    "answer": "Storing and accessing data over the internet",
+    "difficulty": "easy",
+    "topic": "tech"
+  },
+  {
+    "question": "Which of these is NOT a basic movement in boxing?",
+    "options": ["Jab", "Uppercut", "Headbutt", "Cross"],
+    "answer": "Headbutt",
+    "difficulty": "easy",
+    "topic": "boxing"
+  },
+  {
+    "question": "What year was the fitness app 'MyFitnessPal' created?",
+    "options": ["2008", "2011", "2013", "2015"],
+    "answer": "2008",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Fill in the blank: In 'Attack on Titan,' the character 'Levi Ackerman' is known for his exceptional _____.",
+    "answer": "Combat skills",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "Who is the creator of the boxing-focused YouTube channel 'Fight Hub TV'?",
+    "options": ["Doug Fischer", "Eddie Hearn", "Floyd Mayweather", "Oscar De La Hoya"],
+    "answer": "Doug Fischer",
+    "difficulty": "hard",
+    "topic": "boxing"
+  },
+  {
+    "question": "What is the purpose of the 'JavaScript' language in web development?",
+    "options": ["Styling web pages", "Backend server management", "Interactive web elements", "Data storage"],
+    "answer": "Interactive web elements",
+    "difficulty": "easy",
+    "topic": "tech"
+  },
+  {
+    "question": "Which fitness trend focuses on high-intensity interval training (HIIT)?",
+    "options": ["CrossFit", "Yoga", "Pilates", "Zumba"],
+    "answer": "CrossFit",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  }
+,
+  {
+    "question": "Who is the creator of the anime 'One Piece'?",
+    "options": ["Masashi Kishimoto", "Eiichiro Oda", "Hiro Mashima", "Yoshihiro Togashi"],
+    "answer": "Eiichiro Oda",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "True or False: The Python programming language was created by James Gosling.",
+    "answer": "False",
+    "difficulty": "easy",
+    "topic": "tech"
+  },
+  {
+    "question": "Which boxing event is known as the 'Rumble in the Jungle'?",
+    "options": ["Muhammad Ali vs. Joe Frazier", "Muhammad Ali vs. George Foreman", "Mike Tyson vs. Evander Holyfield", "Sugar Ray Leonard vs. Roberto Duran"],
+    "answer": "Muhammad Ali vs. George Foreman",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "What is the recommended rest time between sets for hypertrophy (muscle growth) training?",
+    "options": ["30 seconds", "1-2 minutes", "3-5 minutes", "6-8 minutes"],
+    "answer": "1-2 minutes",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Fill in the blank: The anime 'Dragon Ball' was first aired in _____.",
+    "answer": "1986",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "What does the acronym 'API' stand for in software development?",
+    "options": ["Application Program Interface", "Automated Program Interface", "Active Program Interface", "Applied Programming Integration"],
+    "answer": "Application Program Interface",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Which boxer is known for his famous fight against 'Sugar Ray Leonard' in 1987?",
+    "options": ["Marvin Hagler", "Roberto Duran", "Tommy Hearns", "Mike Tyson"],
+    "answer": "Marvin Hagler",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "True or False: Deadlifts are primarily a lower body exercise.",
+    "answer": "True",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Which anime features the character 'Saitama,' also known as 'One Punch Man'?",
+    "options": ["My Hero Academia", "One Punch Man", "Attack on Titan", "Hunter x Hunter"],
+    "answer": "One Punch Man",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "Which programming language is mainly used for building mobile applications for iOS?",
+    "options": ["Swift", "Java", "Python", "Ruby"],
+    "answer": "Swift",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "What is the recommended range of repetitions for strength training?",
+    "options": ["1-5 reps", "6-12 reps", "15-20 reps", "20-25 reps"],
+    "answer": "1-5 reps",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Fill in the blank: The first 'Star Wars' movie was released in _____.",
+    "answer": "1977",
+    "difficulty": "easy",
+    "topic": "pop culture"
+  },
+  {
+    "question": "Who is the main antagonist in the anime 'Dragon Ball Z' during the 'Frieza Saga'?",
+    "options": ["Frieza", "Cell", "Majin Buu", "Raditz"],
+    "answer": "Frieza",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "Which web development framework is known for its rapid application development (RAD) features and is written in Python?",
+    "options": ["Django", "Flask", "Ruby on Rails", "Laravel"],
+    "answer": "Django",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "What is the term for the martial arts move that consists of a powerful punch delivered from a close range in boxing?",
+    "options": ["Cross", "Jab", "Uppercut", "Hook"],
+    "answer": "Uppercut",
+    "difficulty": "easy",
+    "topic": "boxing"
+  },
+  {
+    "question": "Which workout is best for developing both strength and muscular endurance?",
+    "options": ["High-Intensity Interval Training (HIIT)", "Powerlifting", "Bodybuilding", "Yoga"],
+    "answer": "High-Intensity Interval Training (HIIT)",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "True or False: The anime 'Naruto' first aired in the 1990s.",
+    "answer": "False",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "Which boxing legend famously said, 'I am the greatest, I said that even before I knew I was'?",
+    "options": ["Muhammad Ali", "Mike Tyson", "Sugar Ray Leonard", "Oscar De La Hoya"],
+    "answer": "Muhammad Ali",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "Fill in the blank: 'The Witcher' series was originally a _____ by Andrzej Sapkowski.",
+    "answer": "Book series",
+    "difficulty": "medium",
+    "topic": "pop culture"
+  },
+  {
+    "question": "Which anime is set in a world where humans live within walled cities to protect themselves from giant humanoid creatures?",
+    "options": ["Attack on Titan", "Death Note", "Tokyo Ghoul", "Fullmetal Alchemist"],
+    "answer": "Attack on Titan",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "Which framework is known for its use of reactive programming in JavaScript?",
+    "options": ["Angular", "React", "Vue", "Svelte"],
+    "answer": "React",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "True or False: Barbell bench presses work the quadriceps muscles.",
+    "answer": "False",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "What is the maximum weight allowed in the super heavyweight division in boxing?",
+    "options": ["200 lbs", "220 lbs", "250 lbs", "Over 200 lbs"],
+    "answer": "Over 200 lbs",
+    "difficulty": "hard",
+    "topic": "boxing"
+  },
+  {
+    "question": "Fill in the blank: The anime 'Bleach' is created by _____.",
+    "answer": "Tite Kubo",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "Who was the winner of the 2018 'Fighter of the Year' award by ESPN?",
+    "options": ["Vasiliy Lomachenko", "Canelo Alvarez", "Terence Crawford", "Lomachenko"],
+    "answer": "Vasiliy Lomachenko",
+    "difficulty": "hard",
+    "topic": "boxing"
+  },
+  {
+    "question": "Which of these is the most effective exercise for building strength in the hamstrings?",
+    "options": ["Romanian Deadlift", "Squat", "Leg Press", "Lunges"],
+    "answer": "Romanian Deadlift",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Fill in the blank: The first release of 'Windows 10' was in _____.",
+    "answer": "2015",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Which character is the protagonist of the anime 'Fullmetal Alchemist: Brotherhood'?",
+    "options": ["Edward Elric", "Alphonse Elric", "Roy Mustang", "Lust"],
+    "answer": "Edward Elric",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "Who was the creator of the boxing documentary series '30 for 30'?",
+    "options": ["ESPN", "HBO", "Showtime", "Netflix"],
+    "answer": "ESPN",
+    "difficulty": "hard",
+    "topic": "boxing"
+  },
+  {
+    "question": "True or False: In the anime 'One Piece,' Luffy is the captain of the Straw Hat Pirates.",
+    "answer": "True",
+    "difficulty": "easy",
+    "topic": "anime"
+  }
+,
+  {
+    "question": "Who is the creator of the anime 'Naruto'?",
+    "options": ["Yoshihiro Togashi", "Masashi Kishimoto", "Hiro Mashima", "Tite Kubo"],
+    "answer": "Masashi Kishimoto",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "True or False: The Python programming language was named after a snake.",
+    "answer": "False",
+    "difficulty": "easy",
+    "topic": "tech"
+  },
+  {
+    "question": "Which boxing legend is known for his famous 'rope-a-dope' strategy?",
+    "options": ["Muhammad Ali", "Mike Tyson", "Sugar Ray Robinson", "Joe Frazier"],
+    "answer": "Muhammad Ali",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "Which exercise is primarily used to target the chest and triceps?",
+    "options": ["Push-ups", "Squats", "Deadlifts", "Lunges"],
+    "answer": "Push-ups",
+    "difficulty": "easy",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Fill in the blank: The anime 'Attack on Titan' was created by _____.",
+    "answer": "Hajime Isayama",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "Which programming language is known for being the main language used for Android app development?",
+    "options": ["Kotlin", "Swift", "Java", "Ruby"],
+    "answer": "Java",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Which boxer is known for his fight against George Foreman in the 'Rumble in the Jungle'?",
+    "options": ["Muhammad Ali", "Joe Frazier", "Mike Tyson", "Sonny Liston"],
+    "answer": "Muhammad Ali",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "Which of the following exercises targets the quadriceps muscles most effectively?",
+    "options": ["Squats", "Deadlifts", "Lunges", "Leg Extensions"],
+    "answer": "Squats",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Who is the main antagonist in the anime 'Demon Slayer'?",
+    "options": ["Rengoku", "Muzan Kibutsuji", "Nezuko Kamado", "Zenitsu Agatsuma"],
+    "answer": "Muzan Kibutsuji",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "What does 'HTML' stand for?",
+    "options": ["Hyper Text Markup Language", "Hyper Tool Markup Language", "Home Tool Markup Language", "Hyperlinks Text Markup Language"],
+    "answer": "Hyper Text Markup Language",
+    "difficulty": "easy",
+    "topic": "tech"
+  },
+  {
+    "question": "Which fighter was involved in the infamous 'Bite Fight' against Evander Holyfield?",
+    "options": ["Lennox Lewis", "Mike Tyson", "George Foreman", "Muhammad Ali"],
+    "answer": "Mike Tyson",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "Fill in the blank: The first 'Iron Man' movie in the Marvel Cinematic Universe was released in _____.",
+    "answer": "2008",
+    "difficulty": "easy",
+    "topic": "pop culture"
+  },
+  {
+    "question": "Which anime series follows the story of a boy named Izuku Midoriya aspiring to become a hero in a world where most people have superpowers?",
+    "options": ["My Hero Academia", "Naruto", "One Piece", "Attack on Titan"],
+    "answer": "My Hero Academia",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "What is the main purpose of the 'TCP/IP' model in networking?",
+    "options": ["To define a standard for internet communication", "To prevent viruses", "To manage data storage", "To monitor traffic"],
+    "answer": "To define a standard for internet communication",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Which exercise is considered the king of all lifts for building overall strength?",
+    "options": ["Squat", "Deadlift", "Bench Press", "Overhead Press"],
+    "answer": "Deadlift",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "True or False: The anime 'Dragon Ball Z' first aired in 1995.",
+    "answer": "False",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "Which character in 'One Piece' is known for their ability to stretch their body like rubber?",
+    "options": ["Luffy", "Zoro", "Nami", "Sanji"],
+    "answer": "Luffy",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "Which type of programming paradigm does Python primarily follow?",
+    "options": ["Object-Oriented Programming", "Procedural Programming", "Functional Programming", "All of the above"],
+    "answer": "All of the above",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Who is the first female boxer to win a gold medal at the Olympics?",
+    "options": ["Clarissa Shields", "Katie Taylor", "Nicola Adams", "Mikaela Mayer"],
+    "answer": "Nicola Adams",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "What is the most effective exercise to strengthen the core muscles?",
+    "options": ["Planks", "Crunches", "Sit-ups", "Russian Twists"],
+    "answer": "Planks",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "True or False: In the anime 'Fullmetal Alchemist: Brotherhood,' the main protagonist is a state alchemist named Edward Elric.",
+    "answer": "True",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "Which boxing legend was known as 'The Greatest'?",
+    "options": ["Sugar Ray Leonard", "Muhammad Ali", "Joe Frazier", "Mike Tyson"],
+    "answer": "Muhammad Ali",
+    "difficulty": "easy",
+    "topic": "boxing"
+  },
+  {
+    "question": "Fill in the blank: The first iPhone was released in _____ by Apple.",
+    "answer": "2007",
+    "difficulty": "easy",
+    "topic": "tech"
+  },
+  {
+    "question": "Which anime features the 'Demon Slayer Corps'?",
+    "options": ["Demon Slayer", "Naruto", "One Piece", "My Hero Academia"],
+    "answer": "Demon Slayer",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "What is the purpose of 'VPN' in networking?",
+    "options": ["To secure private networks", "To browse the web anonymously", "To increase internet speed", "Both A and B"],
+    "answer": "Both A and B",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Which exercise is commonly used to strengthen the back muscles?",
+    "options": ["Pull-ups", "Leg Press", "Dips", "Squats"],
+    "answer": "Pull-ups",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Fill in the blank: 'The Avengers: Endgame' movie was released in _____.",
+    "answer": "2019",
+    "difficulty": "medium",
+    "topic": "pop culture"
+  }
+,
+  {
+    "question": "Who is the creator of the anime 'One Punch Man'?",
+    "options": ["Yusuke Murata", "Eiichiro Oda", "ONE", "Hiro Mashima"],
+    "answer": "ONE",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "True or False: In Python, the 'append()' method is used to add an item at the beginning of a list.",
+    "answer": "False",
+    "difficulty": "easy",
+    "topic": "tech"
+  },
+  {
+    "question": "Which famous boxer was known for his 'Peek-a-boo' style?",
+    "options": ["Mike Tyson", "Muhammad Ali", "Sugar Ray Leonard", "Oscar De La Hoya"],
+    "answer": "Mike Tyson",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "Which exercise is most effective for strengthening the hamstrings?",
+    "options": ["Romanian Deadlifts", "Leg Press", "Lunges", "Squats"],
+    "answer": "Romanian Deadlifts",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Fill in the blank: The anime 'Fullmetal Alchemist: Brotherhood' is based on a manga written by _____.",
+    "answer": "Hiromu Arakawa",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "Which programming language is known for its simplicity and is commonly used for web development?",
+    "options": ["Ruby", "Python", "Java", "C++"],
+    "answer": "Python",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Which boxer became the youngest fighter to win a world heavyweight title?",
+    "options": ["George Foreman", "Mike Tyson", "Muhammad Ali", "Sonny Liston"],
+    "answer": "Mike Tyson",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "Which of the following exercises is used primarily to target the gluteal muscles?",
+    "options": ["Squats", "Deadlifts", "Hip Thrusts", "Lunges"],
+    "answer": "Hip Thrusts",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Who is the protagonist of the anime 'Death Note'?",
+    "options": ["Light Yagami", "L", "Near", "Misa Amane"],
+    "answer": "Light Yagami",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "What is the abbreviation 'CSS' in web development stand for?",
+    "options": ["Cascading Style Sheets", "Computer Style Sheets", "Creative Style Sheets", "Common Style Sheets"],
+    "answer": "Cascading Style Sheets",
+    "difficulty": "easy",
+    "topic": "tech"
+  },
+  {
+    "question": "Who was the boxer that famously fought and defeated Muhammad Ali in the 'Fight of the Century'?",
+    "options": ["Joe Frazier", "George Foreman", "Sonny Liston", "Mike Tyson"],
+    "answer": "Joe Frazier",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "Fill in the blank: The main character in 'Attack on Titan' is named _____ Jaeger.",
+    "answer": "Eren",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "Which of the following best describes the purpose of 'cookies' in web development?",
+    "options": ["Store user preferences", "Track user behavior", "Both A and B", "None of the above"],
+    "answer": "Both A and B",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Which boxer is known as 'The Golden Boy'?",
+    "options": ["Oscar De La Hoya", "Manny Pacquiao", "Sugar Ray Leonard", "Canelo Álvarez"],
+    "answer": "Oscar De La Hoya",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "Which exercise primarily targets the shoulders and triceps?",
+    "options": ["Overhead Press", "Push-ups", "Deadlifts", "Squats"],
+    "answer": "Overhead Press",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "True or False: The anime 'My Hero Academia' is set in a world where only a few people have superpowers.",
+    "answer": "False",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "Who was the original creator of the 'Superman' comic book character?",
+    "options": ["Jerry Siegel and Joe Shuster", "Stan Lee", "Bob Kane", "Jack Kirby"],
+    "answer": "Jerry Siegel and Joe Shuster",
+    "difficulty": "medium",
+    "topic": "pop culture"
+  },
+  {
+    "question": "Which of the following is a commonly used tool for version control in software development?",
+    "options": ["Git", "SVN", "Mercurial", "All of the above"],
+    "answer": "All of the above",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Fill in the blank: The 'One Piece' anime is based on a manga written by _____.",
+    "answer": "Eiichiro Oda",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "What is the most commonly used database management system in web development?",
+    "options": ["MySQL", "MongoDB", "PostgreSQL", "SQLite"],
+    "answer": "MySQL",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Which boxer is famous for being the first fighter to hold world titles in five different weight classes?",
+    "options": ["Sugar Ray Leonard", "Manny Pacquiao", "Oscar De La Hoya", "Tommy Hearns"],
+    "answer": "Manny Pacquiao",
+    "difficulty": "hard",
+    "topic": "boxing"
+  },
+  {
+    "question": "Which gym exercise works on the lower back muscles most effectively?",
+    "options": ["Deadlifts", "Squats", "Leg Press", "Lunges"],
+    "answer": "Deadlifts",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "True or False: In the anime 'Naruto', the protagonist Naruto Uzumaki becomes the Hokage of the Hidden Leaf Village.",
+    "answer": "True",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "What is the name of the fictional character who is considered the first superhero in comic books?",
+    "options": ["Superman", "Batman", "Spider-Man", "The Phantom"],
+    "answer": "Superman",
+    "difficulty": "medium",
+    "topic": "pop culture"
+  },
+  {
+    "question": "Who was the first animated character to receive a star on the Hollywood Walk of Fame?",
+    "options": ["Mickey Mouse", "Bugs Bunny", "Donald Duck", "Goofy"],
+    "answer": "Mickey Mouse",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "True or False: The Python programming language was named after a snake.",
+    "answer": "False",
+    "difficulty": "easy",
+    "topic": "tech"
+  },
+  {
+    "question": "Which boxer is known for the 'Rumble in the Jungle' fight against George Foreman?",
+    "options": ["Muhammad Ali", "Joe Frazier", "Sonny Liston", "Mike Tyson"],
+    "answer": "Muhammad Ali",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "What exercise primarily targets the quadriceps?",
+    "options": ["Squats", "Leg Press", "Lunges", "Deadlifts"],
+    "answer": "Squats",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Fill in the blank: In the anime 'Dragon Ball Z', the main antagonist during the 'Frieza Saga' is _____.",
+    "answer": "Frieza",
+    "difficulty": "medium",
+    "topic": "anime"
+  },
+  {
+    "question": "Which programming language is widely used for artificial intelligence and machine learning applications?",
+    "options": ["Java", "Python", "Ruby", "C#"],
+    "answer": "Python",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Which boxer has the nickname 'The Greatest'?",
+    "options": ["Muhammad Ali", "Sugar Ray Leonard", "Mike Tyson", "Joe Frazier"],
+    "answer": "Muhammad Ali",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "Which exercise is best for targeting the gluteal muscles?",
+    "options": ["Deadlifts", "Hip Thrusts", "Squats", "Lunges"],
+    "answer": "Hip Thrusts",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Who is the main character in the anime 'Naruto'?",
+    "options": ["Naruto Uzumaki", "Sasuke Uchiha", "Kakashi Hatake", "Sakura Haruno"],
+    "answer": "Naruto Uzumaki",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "Which web framework is known for its simplicity and is based on Python?",
+    "options": ["Django", "Flask", "FastAPI", "React"],
+    "answer": "Flask",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "What is the name of the boxer who famously defeated Rocky Marciano's unbeaten record?",
+    "options": ["Muhammad Ali", "Joe Frazier", "Sonny Liston", "Mike Tyson"],
+    "answer": "Muhammad Ali",
+    "difficulty": "hard",
+    "topic": "boxing"
+  },
+  {
+    "question": "True or False: In the anime 'Attack on Titan', humans live inside walls to protect themselves from Titans.",
+    "answer": "True",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "Fill in the blank: The programming language 'JavaScript' was developed by _____.",
+    "answer": "Brendan Eich",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Which boxer was known for his lightning-fast footwork and evasive style?",
+    "options": ["Muhammad Ali", "Sugar Ray Leonard", "Mike Tyson", "George Foreman"],
+    "answer": "Muhammad Ali",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "What is the main benefit of squatting in the gym?",
+    "options": ["Increases core strength", "Targets the hamstrings", "Improves flexibility", "Strengthens the legs and glutes"],
+    "answer": "Strengthens the legs and glutes",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Who is known as the 'God of Anime' for his contributions to the industry?",
+    "options": ["Hayao Miyazaki", "Yoshiyuki Tomino", "Osamu Tezuka", "Mamoru Hosoda"],
+    "answer": "Osamu Tezuka",
+    "difficulty": "hard",
+    "topic": "anime"
+  },
+  {
+    "question": "What does the CSS property 'display: none' do?",
+    "options": ["Makes an element invisible", "Hides an element without affecting its layout", "Removes the element from the layout", "Both A and B"],
+    "answer": "Removes the element from the layout",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Which boxer was famous for his brutal knockout punches and had a feared reputation?",
+    "options": ["Mike Tyson", "Muhammad Ali", "Sugar Ray Leonard", "Joe Frazier"],
+    "answer": "Mike Tyson",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "What exercise focuses on building strength in the lower back muscles?",
+    "options": ["Deadlifts", "Squats", "Leg Press", "Hip Thrusts"],
+    "answer": "Deadlifts",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Fill in the blank: The anime 'One Piece' follows the adventures of a pirate named _____.",
+    "answer": "Monkey D. Luffy",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "Which programming language is primarily used for front-end web development?",
+    "options": ["JavaScript", "Python", "Java", "C++"],
+    "answer": "JavaScript",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Which boxer is considered one of the greatest heavyweights of all time, with wins over both Joe Frazier and George Foreman?",
+    "options": ["Muhammad Ali", "Mike Tyson", "Joe Louis", "Sonny Liston"],
+    "answer": "Muhammad Ali",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "Which gym exercise is effective for building muscle mass in the chest?",
+    "options": ["Bench Press", "Push-ups", "Chest Fly", "Incline Press"],
+    "answer": "Bench Press",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "True or False: In the anime 'Demon Slayer,' Tanjiro Kamado uses a sword known as the 'Nichirin Blade.'",
+    "answer": "True",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "Which famous comic book superhero was created by Stan Lee and Steve Ditko?",
+    "options": ["Spider-Man", "Batman", "Iron Man", "Captain America"],
+    "answer": "Spider-Man",
+    "difficulty": "easy",
+    "topic": "pop culture"
+  },
+  {
+    "question": "Which web technology is used for creating dynamic web pages and interactive content?",
+    "options": ["HTML", "CSS", "JavaScript", "PHP"],
+    "answer": "JavaScript",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Which boxer is known for his famous 'rope-a-dope' tactic?",
+    "options": ["Muhammad Ali", "Joe Frazier", "Sugar Ray Leonard", "Mike Tyson"],
+    "answer": "Muhammad Ali",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "What is the primary focus of the exercise 'plank'?",
+    "options": ["Core strength", "Leg strength", "Cardio endurance", "Flexibility"],
+    "answer": "Core strength",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Which anime features a character named Goku who has the ability to transform into a Super Saiyan?",
+    "options": ["Dragon Ball Z", "Naruto", "One Piece", "Bleach"],
+    "answer": "Dragon Ball Z",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "Which programming language is best suited for backend web development?",
+    "options": ["PHP", "Ruby", "Python", "JavaScript"],
+    "answer": "Python",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "Which boxer is known for his undefeated record and nickname 'Pretty Boy'?",
+    "options": ["Floyd Mayweather Jr.", "Manny Pacquiao", "Oscar De La Hoya", "Sugar Ray Leonard"],
+    "answer": "Floyd Mayweather Jr.",
+    "difficulty": "medium",
+    "topic": "boxing"
+  },
+  {
+    "question": "Fill in the blank: The exercise known as 'burpees' involves a _____ and a jump.",
+    "answer": "push-up",
+    "difficulty": "medium",
+    "topic": "gym and fitness"
+  },
+  {
+    "question": "Which anime character says the phrase 'I am gonna be king of the pirates!'?",
+    "options": ["Naruto Uzumaki", "Monkey D. Luffy", "Edward Elric", "Ichigo Kurosaki"],
+    "answer": "Monkey D. Luffy",
+    "difficulty": "easy",
+    "topic": "anime"
+  },
+  {
+    "question": "True or False: Java is a statically typed programming language.",
+    "answer": "True",
+    "difficulty": "medium",
+    "topic": "tech"
+  },
+  {
+    "question": "What is the name of the popular superhero film series based on Marvel Comics?",
+    "options": ["Marvel Cinematic Universe", "Justice League", "X-Men", "The Dark Knight Trilogy"],
+    "answer": "Marvel Cinematic Universe",
+    "difficulty": "medium",
+    "topic": "pop culture"
+  }
+]
