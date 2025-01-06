@@ -9,3 +9,9 @@ Hints: Add hints for questions.
 Difficulty Levels: Categorize questions.
 Save Progress: Save scores or unfinished quizzes.
 This structure and setup will give you a robust foundation for your terminal-based quiz app.
+
+
+To Do:
+
+sort questions
+Create Welcome Page
