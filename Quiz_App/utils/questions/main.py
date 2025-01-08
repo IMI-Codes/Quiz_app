@@ -6,7 +6,7 @@ Sort By Difficulty
 Sort By Question Type
 """
 
-fhand = open("questions_2.json","+")
+fhand = open("questions_2.json")
 #gym and fitness
 #boxing
 #general knowledge
