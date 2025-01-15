@@ -17,6 +17,11 @@ def main(win):
     else:
       pass
     
+    while True:
+      key = area.getch()
+      #logic for selection
+    
+    
   print_options(win,player_statuses,"What")
-  win.getch()
+  #win.getch()
 wrapper(main)
